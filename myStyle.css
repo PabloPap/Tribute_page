@@ -1,0 +1,38 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    background-image: url(../../Pictures/minimal-background-patterns/minimal-background-pattern-wordpress-20.jpg)
+}
+
+#banner{
+    background-color: lightgray
+}
+
+@media only screen and (min-width : 320px) {
+    body { font-size:100%;}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+    body { font-size:120%;}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+    body { font-size:120%;}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+    body { font-size:160%;}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+    body { font-size:170%;}
+}
+
+
+
+
+
+
